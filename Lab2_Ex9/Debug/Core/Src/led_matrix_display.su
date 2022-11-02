@@ -1,0 +1,7 @@
+led_matrix_display.c:145:5:get_bit	16	static
+led_matrix_display.c:151:6:set_row_off	8	static
+led_matrix_display.c:163:6:set_row_on	16	static
+led_matrix_display.c:195:6:write_data	16	static
+led_matrix_display.c:285:6:update_buffer	24	static
+led_matrix_display.c:295:6:display_char	16	static
+led_matrix_display.c:307:6:display_string	24	static

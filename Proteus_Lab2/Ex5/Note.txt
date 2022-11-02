@@ -1,0 +1,3 @@
+Nếu để điện trở là 10k thay vì 100
+thì đèn sẽ không hiện số 8
+do I quá nhỏ
