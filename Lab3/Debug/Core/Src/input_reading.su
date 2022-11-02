@@ -1,0 +1,5 @@
+input_reading.c:34:6:button_reading	16	static
+input_reading.c:83:5:is_mode_select_button_pressed	4	static
+input_reading.c:94:5:is_time_adjust_button_pressed	4	static
+input_reading.c:105:5:is_time_adjust_button_press1s	4	static
+input_reading.c:116:5:is_set_button_pressed	4	static
